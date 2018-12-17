@@ -73,7 +73,7 @@ Final report consists of:
   * Total Purchase Value
 
 
-## Heroes Of Pymoli Data Analysis:
+## Data Analysis:
 
 1. Of the 576 unique players, the vast majority were male: 484 (84.04%). There also exists, a smaller, but notable proportion of female players 81 (14.06%).
 
